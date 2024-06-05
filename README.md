@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bibekshah75674
 - 👀 I’m interested in web development,editing,excel,and so on.
-- 🌱 I’m currently learning C,C++.
+- 🌱 I’m currently learning C,C++ and frontend part.
 - 💞️ I’m looking to collaborate on various projects including remote projects.
 - 📫 You can reach me through bibekshah78272@gmail.com
 - 😄 Pronouns: he/him
