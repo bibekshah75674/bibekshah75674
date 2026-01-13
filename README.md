@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bibekshah75674
-- 👀 I’m interested in web development,editing,excel,and so on.
-- 🌱 I’m currently learning C,C++ and frontend part.
+- 👀 I’m interested in full stack web development,cyber security and magic.
+- 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on various projects including remote projects.
-- 📫 You can reach me through bibekshah75674@gmail.com
+- 📫 You can reach me through bibekshah78272@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love reading ramdom books and always want to get some random knowledge.
 
